@@ -42,6 +42,7 @@ function Navigation() {
 }
 
 function App() {
+  console.log("Vercel Ortam Değişkeni:", process.env.REACT_APP_API_URL);
   return (
     <AuthProvider>
       <CssBaseline /> {/* Tarayıcı stillerini sıfırlar */}
