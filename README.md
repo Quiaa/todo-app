@@ -43,8 +43,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone <repository-url>
-cd <proje-dizini>
+git clone https://github.com/Quiaa/todo-app.git
+cd todo-app
 ```
 
 ### 2. Backend Kurulumu
